@@ -1,0 +1,258 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A0 46811 33110
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L BrownSugar_KBD:BleMicroPro U?
+U 1 1 64E7121F
+P 17000 10650
+F 0 "U?" H 17000 11567 50  0000 C CNN
+F 1 "BleMicroPro" H 17000 11476 50  0000 C CNN
+F 2 "" H 17000 11450 50  0001 C CNN
+F 3 "" H 17000 11450 50  0001 C CNN
+	1    17000 10650
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:ProMicro U?
+U 1 1 64E71BDA
+P 15500 10650
+F 0 "U?" H 15500 11467 50  0000 C CNN
+F 1 "ProMicro" H 15500 11376 50  0000 C CNN
+F 2 "" H 15500 11350 50  0001 C CNN
+F 3 "" H 15500 11350 50  0001 C CNN
+	1    15500 10650
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:RP2040 U?
+U 1 1 64E725EC
+P 18900 12050
+F 0 "U?" H 18900 10311 50  0000 C CNN
+F 1 "RP2040" H 18900 10220 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm_ThermalVias" H 18900 12050 50  0001 C CNN
+F 3 "" H 18900 12050 50  0001 C CNN
+	1    18900 12050
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:OLED OL?
+U 1 1 64E73CE2
+P 22000 13750
+F 0 "OL?" H 22230 13796 50  0000 L CNN
+F 1 "OLED" H 22230 13705 50  0000 L CNN
+F 2 "" H 22000 14050 50  0001 C CNN
+F 3 "" H 22000 14050 50  0001 C CNN
+	1    22000 13750
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:OLED_Display_0.91 OL?
+U 1 1 64E743EE
+P 22000 12450
+F 0 "OL?" H 22000 11811 50  0000 C CNN
+F 1 "OLED_Display_0.91" H 22000 11720 50  0000 C CNN
+F 2 "" H 22000 13150 50  0001 C CNN
+F 3 "" H 22000 13150 50  0001 C CNN
+	1    22000 12450
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:RGBLED_WS2812B LED?
+U 1 1 64E7467C
+P 24200 10200
+F 0 "LED?" H 24544 10246 50  0000 L CNN
+F 1 "RGBLED_WS2812B" H 24544 10155 50  0000 L CNN
+F 2 "BrownSugar_KBD:RGBLED_WS2812B" H 24350 9750 50  0001 L CNN
+F 3 "" H 24200 10200 50  0001 C CNN
+	1    24200 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:RGBLED_SK6812-SIDE LED?
+U 1 1 64E74DF6
+P 24200 13800
+F 0 "LED?" H 24544 13846 50  0000 L CNN
+F 1 "RGBLED_SK6812-SIDE" H 24544 13755 50  0000 L CNN
+F 2 "BrownSugar_KBD:RGBLED_SK6812-SIDE" H 24350 13350 50  0001 L CNN
+F 3 "" H 24200 13800 50  0001 C CNN
+	1    24200 13800
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:RGBLED_SK6812MINI LED?
+U 1 1 64E75799
+P 24200 11400
+F 0 "LED?" H 24544 11446 50  0000 L CNN
+F 1 "RGBLED_SK6812MINI" H 24544 11355 50  0000 L CNN
+F 2 "" H 24200 11400 50  0001 C CNN
+F 3 "" H 24200 11400 50  0001 C CNN
+	1    24200 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:RGBLED_SK6812MINI-E LED?
+U 1 1 64E75E19
+P 24200 12600
+F 0 "LED?" H 24544 12646 50  0000 L CNN
+F 1 "RGBLED_SK6812MINI-E" H 24544 12555 50  0000 L CNN
+F 2 "" H 24200 12600 50  0001 C CNN
+F 3 "" H 24200 12600 50  0001 C CNN
+	1    24200 12600
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:Rotary_Encoder_LED RE?
+U 1 1 64E7657D
+P 15500 16750
+F 0 "RE?" H 15500 17117 50  0000 C CNN
+F 1 "Rotary_Encoder_LED" H 15500 17026 50  0000 C CNN
+F 2 "BrownSugar_KBD:RotaryEncoder_EC11-LED" H 15350 16910 50  0001 C CNN
+F 3 "" H 15500 17010 50  0001 C CNN
+	1    15500 16750
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:SW_PUSH SW?
+U 1 1 64E770D0
+P 15500 15950
+F 0 "SW?" H 15500 16205 50  0000 C CNN
+F 1 "SW_PUSH" H 15500 16114 50  0000 C CNN
+F 2 "" H 15500 15950 50  0000 C CNN
+F 3 "" H 15500 15950 50  0000 C CNN
+	1    15500 15950
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:USBLC6-2SC6 U?
+U 1 1 64E77884
+P 22000 10300
+F 0 "U?" H 22000 10767 50  0000 C CNN
+F 1 "USBLC6-2SC6" H 22000 10676 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6" H 22000 10300 50  0001 C CNN
+F 3 "" H 22000 10300 50  0001 C CNN
+	1    22000 10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:USB_B_Micro_Male-Connector J?
+U 1 1 64E78A58
+P 17850 16750
+F 0 "J?" H 17907 17217 50  0000 C CNN
+F 1 "USB_B_Micro_Male-Connector" H 17907 17126 50  0000 C CNN
+F 2 "" H 18000 16700 50  0001 C CNN
+F 3 "" H 18000 16700 50  0001 C CNN
+	1    17850 16750
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:TRRS J?
+U 1 1 64E79711
+P 17850 15950
+F 0 "J?" H 17904 16325 50  0000 C CNN
+F 1 "TRRS" H 17904 16234 50  0000 C CNN
+F 2 "" H 18150 16000 50  0001 C CNN
+F 3 "" H 18150 16000 50  0001 C CNN
+	1    17850 15950
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:Mark M?
+U 1 1 64E79FAB
+P 19900 16000
+F 0 "M?" H 19978 16046 50  0000 L CNN
+F 1 "Mark" H 19978 15955 50  0000 L CNN
+F 2 "" H 19900 16000 50  0001 C CNN
+F 3 "" H 19900 16000 50  0001 C CNN
+	1    19900 16000
+	1    0    0    -1  
+$EndComp
+$Comp
+L BrownSugar_KBD:Stabilizer ST?
+U 1 1 64E7A4CE
+P 19900 16750
+F 0 "ST?" H 19978 16796 50  0000 L CNN
+F 1 "Stabilizer" H 19978 16705 50  0000 L CNN
+F 2 "" H 19900 16750 50  0001 C CNN
+F 3 "" H 19900 16750 50  0001 C CNN
+	1    19900 16750
+	1    0    0    -1  
+$EndComp
+Wire Notes Line width 60 style solid
+	14500 14500 20500 14500
+Wire Notes Line width 60 style solid
+	20500 14500 20500 9500
+Text Notes 14950 9600 0    200  ~ 40
+MCU
+Wire Notes Line width 60 style solid
+	21000 9500 21000 11000
+Text Notes 21300 9650 0    200  ~ 40
+ESD
+Wire Notes Line width 60 style solid
+	14500 9500 14500 14500
+Wire Notes Line width 60 style solid
+	20500 9500 16000 9500
+Wire Notes Line width 60 style solid
+	23000 11000 23000 9500
+Wire Notes Line width 60 style solid
+	21000 11500 21000 14500
+Wire Notes Line width 60 style solid
+	21000 14500 23000 14500
+Wire Notes Line width 60 style solid
+	23000 14500 23000 11500
+Text Notes 21450 11650 0    200  ~ 40
+OLED
+Wire Notes Line width 60 style solid
+	23000 11500 22750 11500
+Wire Notes Line width 60 style solid
+	21000 11000 23000 11000
+Wire Notes Line width 60 style solid
+	23000 9500 22400 9500
+Wire Notes Line width 60 style solid
+	23500 9500 23500 14500
+Wire Notes Line width 60 style solid
+	26000 14500 26000 9500
+Text Notes 23950 9650 0    200  ~ 40
+LED
+Wire Notes Line width 60 style solid
+	23500 14500 26000 14500
+Wire Notes Line width 60 style solid
+	26000 9500 25000 9500
+Text Notes 14950 15400 0    200  ~ 40
+Switch
+Wire Notes Line width 60 style solid
+	14500 17500 16500 17500
+Text Notes 17450 15400 0    200  ~ 40
+Jack
+Wire Notes Line width 60 style solid
+	17000 15250 17000 17500
+Wire Notes Line width 60 style solid
+	17000 17500 18750 17500
+Wire Notes Line width 60 style solid
+	18750 17500 18750 15250
+Wire Notes Line width 60 style solid
+	18750 15250 18600 15250
+Wire Notes Line width 60 style solid
+	14500 15250 14500 17500
+Wire Notes Line width 60 style solid
+	16500 15250 16500 17500
+Text Notes 19700 15400 0    200  ~ 40
+Other
+Wire Notes Line width 60 style solid
+	19250 15250 19250 17500
+Wire Notes Line width 60 style solid
+	19250 17500 21000 17500
+Wire Notes Line width 60 style solid
+	21000 17500 21000 15250
+$EndSCHEMATC
