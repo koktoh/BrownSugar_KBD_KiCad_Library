@@ -4,6 +4,13 @@ KiCad library for building keyboard
 
 ![footprint](https://github.com/koktoh/BrownSugar_KBD_KiCad_Library/blob/img/img/footprint_all.png)
 
+## Contents
+
+- BrownSugar_KBD
+  + KiCad library. Contains KiCad symbols, footprints, and 3D models.
+- showcase
+  + KiCad project file. You can see all symbols, footprints, and 3D models in this library on KiCad.
+
 ## KiCad Symbols and Footprints
 
 The symbols and footprints in this repository are created using KiCad version 5.x.
