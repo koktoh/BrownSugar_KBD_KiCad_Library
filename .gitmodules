@@ -1,0 +1,6 @@
+[submodule "BrownSugar_KBD/BrownSugar_KBD.3D/keyswitch_model"]
+	path = BrownSugar_KBD/BrownSugar_KBD.3D/keyswitch_model
+	url = git@github.com:koktoh/keyswitch_model.git
+[submodule "BrownSugar_KBD/BrownSugar_KBD.3D/keycap_model"]
+	path = BrownSugar_KBD/BrownSugar_KBD.3D/keycap_model
+	url = git@github.com:koktoh/keycap_model.git
