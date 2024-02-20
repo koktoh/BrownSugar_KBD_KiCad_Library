@@ -95,12 +95,12 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 5.9) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5 3.7) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/socket/KiCad/choc.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/socket/KiCad/choc.step
     (offset (xyz 0 -5.9 -3.45))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/choc/v1/KiCad/sunset_tactile.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/choc/v1/KiCad/sunset_tactile.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

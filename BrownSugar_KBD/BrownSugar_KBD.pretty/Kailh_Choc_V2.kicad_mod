@@ -24,7 +24,7 @@
   (pad 2 thru_hole oval (at 0 5.9) (size 1.6 1.2) (drill oval 1.2 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at -5 3.7) (size 1.6 1.2) (drill oval 1.2 0.8) (layers *.Cu *.Mask))
   (pad MP thru_hole oval (at 5 -5.5) (size 1.6 1.2) (drill oval 1.2 0.8) (layers *.Cu *.Mask))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/choc/v2/KiCad/red.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/choc/v2/KiCad/red.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

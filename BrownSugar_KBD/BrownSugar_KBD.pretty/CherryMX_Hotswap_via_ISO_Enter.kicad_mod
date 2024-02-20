@@ -94,12 +94,12 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 4.1 4.1) (drill 4.1) (layers *.Cu *.Mask))
   (pad 1 smd roundrect (at -7.11 -2.54 180) (size 3 3) (layers B.Cu) (roundrect_rratio 0.083))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/socket/KiCad/mx.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/socket/KiCad/mx.step
     (offset (xyz -3.81 2.54 -3.45))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/mx/silent_alpaca/KiCad/silent_alpaca.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/mx/silent_alpaca/KiCad/silent_alpaca.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

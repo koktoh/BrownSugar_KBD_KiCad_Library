@@ -23,7 +23,7 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 5.9) (size 1.6 1.2) (drill oval 1.2 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at -5 3.7) (size 1.6 1.2) (drill oval 1.2 0.8) (layers *.Cu *.Mask))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/choc/v1/KiCad/sunset_tactile.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/choc/v1/KiCad/sunset_tactile.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

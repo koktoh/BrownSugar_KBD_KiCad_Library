@@ -41,7 +41,7 @@
   (fp_line (start -44.2976 2.286) (end -6.985 2.286) (layer Edge.Cuts) (width 0.12))
   (fp_line (start -6.985 2.286) (end -6.985 6.985) (layer Edge.Cuts) (width 0.12))
   (fp_line (start -6.985 6.985) (end 6.985 6.985) (layer Edge.Cuts) (width 0.12))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/stabilizer/plate_mount/KiCad/stabilizer_6u.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/stabilizer/plate_mount/KiCad/stabilizer_6u.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
