@@ -21,7 +21,7 @@
   (fp_line (start -10.4 9) (end -10.4 3.3) (layer Edge.Cuts) (width 0.12))
   (fp_line (start -10.4 3.3) (end -8.85 3.3) (layer Edge.Cuts) (width 0.12))
   (fp_line (start -8.85 3.3) (end -8.85 -3.3) (layer Edge.Cuts) (width 0.12))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/stabilizer/choc/KiCad/stabilizer_2u.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/stabilizer/choc/KiCad/stabilizer_2u.step
     (offset (xyz 0 0 -2.25))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

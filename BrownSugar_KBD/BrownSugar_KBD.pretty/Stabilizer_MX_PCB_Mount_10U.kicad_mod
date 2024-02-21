@@ -24,7 +24,7 @@
   (pad "" np_thru_hole circle (at 66.675 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -66.675 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -66.675 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
-  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/stabilizer/screw_in/KiCad/stabilizer_10u.wrl
+  (model ${BROWNSUGAR_KBD_3DMOD}/keyswitch_model/stabilizer/screw_in/KiCad/stabilizer_10u.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
