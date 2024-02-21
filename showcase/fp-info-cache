@@ -1,4 +1,4 @@
-19657370944983799
+19671781948283210
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -770,6 +770,13 @@ RotaryEncoder_EVQWGD001-Hole
 0
 0
 BrownSugar
+SW_DPDT_2MD1-T1-B4-VS2-Q-E
+
+
+0
+8
+6
+BrownSugar
 SW_DPST_TS3315
 
 
@@ -790,6 +797,13 @@ SW_PUSH_6x3mm
 0
 2
 2
+BrownSugar
+SW_SPDT_2MS1-T1-B4-VS2-Q-E-S
+
+
+0
+5
+3
 BrownSugar
 SW_SPDT_MSK-12C01-07
 
@@ -85644,3 +85658,45 @@ varistor SIOV
 0
 2
 2
+koktoh
+Audio_Jack_ST-00T-G
+
+
+0
+4
+3
+koktoh
+Crystal_SMD_HC-49SMD
+
+
+0
+2
+2
+koktoh
+JLCPCB_PCBA_ToolingHole
+
+
+0
+0
+0
+koktoh
+SW_DPDT_2MD1-T1-B4-VS2-Q-E
+
+
+0
+8
+6
+koktoh
+SW_SPDT_2MS1-T1-B4-VS2-Q-E-S
+
+
+0
+5
+3
+koktoh
+SW_Slide_1P2T_XIAMEN_SS-12D00G3
+
+switch SPDT
+0
+3
+3
