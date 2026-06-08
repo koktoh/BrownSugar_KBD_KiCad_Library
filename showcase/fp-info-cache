@@ -1,4 +1,4 @@
-19671782212942851
+19675229164285190
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -1132,6 +1132,20 @@ CherryMX_10U
 
 0
 2
+2
+BrownSugar_KBD
+CherryMX_Hotswap_thin_via
+
+
+0
+12
+2
+BrownSugar_KBD
+CherryMX_Hotswap_via_0.85U_16x16mm
+
+
+0
+12
 2
 BrownSugar_KBD
 CherryMX_Hotswap_via_1.5U
